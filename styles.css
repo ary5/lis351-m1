@@ -1,5 +1,5 @@
 :root{
-  --bg:#C9B1CC;--subtle:#957099;--accent:#F7ABFF;--heading:#613666;--ink:#301133;--card:#FFF;
+  --bg:#C9B1CC;--subtle:#957099;--accent:#613666;--heading:#613666;--ink:#301133;--card:#FFF;
 }
 *{box-sizing:border-box}
 body{
